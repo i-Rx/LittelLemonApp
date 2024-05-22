@@ -51,7 +51,6 @@ fun Onboarding(navController: NavHostController) {
                 .height(50.dp)
                 .fillMaxWidth()
         )
-
         Text(
             text = "Let's get to know you",
             modifier = Modifier

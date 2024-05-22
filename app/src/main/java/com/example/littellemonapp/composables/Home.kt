@@ -49,7 +49,6 @@ import com.example.littellemonapp.db.MenuItemRoom
 import com.example.littellemonapp.R
 import com.example.littellemonapp.navigation.Profile
 
-
 @Composable
 fun Home(
     navController: NavHostController,
